@@ -1,0 +1,6 @@
+{
+  "name": "SolarSync",
+  "description": "Plataforma SaaS inteligente e centralizada para consolidação de usinas solares fotográficas integrando múltiplos portais de inversores em um único painel Material 3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
